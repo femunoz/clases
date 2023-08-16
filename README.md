@@ -7,7 +7,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 El calendario va a regirse por el número de cada semana y acorde al calendario académico del semestre en curso (2023-2).
 
-![calendario 2023-2](https://github.com/femunoz/clases/assets/71560370/1b2f0cd3-01db-43ea-9af4-7b82382b34be)
+![calendario 2023-2](https://github.com/femunoz/clases/imagenes/calendario 2023-2.png)
 
 ### Asignaturas dictadas este semestre 2023-2:
 
