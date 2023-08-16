@@ -8,3 +8,9 @@ El calendario va a regirse por el número de cada semana y acorde al calendario 
 
 
 
+### Asignaturas dictadas este semestre 2023-2:
+
+1. Programación Orientada a Objetos.
+2. Inteligencia Artificial.
+3. Diseño y Programación Web.
+
