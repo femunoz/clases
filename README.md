@@ -4,5 +4,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 ### Calendario
 
-El calendario va a regirse por el número de cada semana y acorde al calendario académicos del semestre en curso (2023-2).
+El calendario va a regirse por el número de cada semana y acorde al calendario académico del semestre en curso (2023-2).
+
+
 
