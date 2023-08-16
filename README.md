@@ -5,7 +5,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 ### Calendario
 
-El calendario va a regirse por el número de cada semana y acorde al calendario académico del semestre en curso (2023-2).
+El calendario va a regirse por el número de cada semana y acorde al calendario académico del semestre en curso (2023-2). Por ejemplo, la semana 8 es la semana del 2 de octubre.
 
 ![calendario 2023-2](imagenes/calendario_2023-2.png)
 
