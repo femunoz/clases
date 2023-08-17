@@ -5,6 +5,9 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 ### Temas administrativos
 
+
+#### Comunicación
+
 Ya se ha informado por interno a las/los estudiantes cuál es mi **correo electrónico**. Para que como estudiantes tengan en consideración cuándo enviar los correos, suelo revisarlo **a lo más** tres veces al día y dentro de horario de oficina: 
 
 1. En la mañana.
@@ -12,6 +15,17 @@ Ya se ha informado por interno a las/los estudiantes cuál es mi **correo electr
 3. En la tarde (hasta aprox. las 5pm.)
 
 En caso de eventos emergentes, la comunicación se realiza de forma directa con las o los **delegados** de cada sección. Por cada sección de las aisgnaturas que imparto es **responsabilidad** del estudiantado elegir a los menos a un(a) compañera/o de sección como **delegado/a**. Esto debe ser informado a mi casilla institucional de correo electrónico (mientras antes, mejor).
+
+#### Atención de estudiantes
+
+La atención de estudiantes se realiza en mi oficina ubicada en el segundo piso del pabellón E, frente a la sala Maihue 205.
+
+Les solicito por favor coordinar por correo electrónico un evento para la atención. 
+
+Mi horario de atención para el **semestre 2023-2** es el siguiente:
+
+1. (Por definir)
+2. (Por definir)
 
 ### Calendario
 
