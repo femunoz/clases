@@ -24,7 +24,7 @@ Les solicito por favor coordinar por correo electrónico un evento para la atenc
 
 Mi horario de atención para el **semestre 2023-2** es el siguiente:
 
-1. (Por definir)
+1. Viernes 16:15 a 17:00hs.
 2. (Por definir)
 
 ### Calendario
