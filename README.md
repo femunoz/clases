@@ -42,4 +42,4 @@ El calendario va a regirse por el número de cada semana y acorde al calendario 
 2. Inteligencia Artificial. Programa de asignatura: ![Programa_IA](programas/ia.pdf)
 3. Diseño y Programación Web. Programa de asignatura: ![Programa_DPW](programas/dpw.pdf)
 
-
+4. Sistemas de control de procesos. Programa de asignatura: ![Sistema de control de Procesos](programas/scp.pdf)
