@@ -12,5 +12,5 @@ b) Haber reprobado la asignatura con un promedio final comprendido entre 3,0 y 3
 
 **Art. 46º** Un estudiante podrá acceder hasta a dos asignaturas en el Periodo Especial de Reforzamiento y Evaluación y deberá asistir al 100% de las actividades programadas. 
 
-**Art. 47º** El estudiante que haya accedido al Período Especial de Reforzamiento y Evaluación, cumpliendo con los requisitos establecidos en el ART 45o, será evaluado considerando la nota de presentación con ponderación del 60% y la nota obtenida en este período con un 40%. Si la calificación anterior da como resultado una nota mayor o igual a 4.0, el estudiante habrá aprobado la asignatura con nota final 4.0. Caso contrario, el estudiante mantendrá su calificación original. 
+**Art. 47º** El estudiante que haya accedido al Período Especial de Reforzamiento y Evaluación, cumpliendo con los requisitos establecidos en el **Art. 45º**, será evaluado considerando la nota de presentación con ponderación del 60% y la nota obtenida en este período con un 40%. Si la calificación anterior da como resultado una nota mayor o igual a 4.0, el estudiante habrá aprobado la asignatura con nota final 4.0. Caso contrario, el estudiante mantendrá su calificación original. 
 
