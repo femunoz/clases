@@ -1,7 +1,8 @@
 # Reglamento de Estudios de Pregrados (Periodo de Reforzamiento y Evaluación)
 
 **Art. 44º**- Al finalizar cada período académico, la Dirección de Docencia de Pregrado podrá programar un Periodo Extraordinario de Reforzamiento y Evaluación, en aquellas asignaturas pertenecientes a los primeros años de las carreras que hayan tenido rendimientos deficitarios en el semestre inmediatamente anterior. 
-Un Reglamento especial determinará la fórmula por la cual se seleccionarán las asignaturas que se reforzarán en este período. 
+Un Reglamento especial determinará la fórmula por la cual se seleccionarán las asignaturas que se reforzarán en este período.
+
 **Art. 45º** Una vez que la Dirección de Docencia de Pregrado determine las asignaturas que accederán al Período Especial de Reforzamiento y Evaluación, el estudiante que hubiera reprobado dicha asignatura en el período lectivo inmediatamente anterior, tendrá la opción de cursar un período de nivelación, al final del cual será nuevamente evaluado. 
 Para optar a este Período Especial de Reforzamiento y Evaluación, el estudiante deberá cumplir con los siguientes requisitos: 
 
