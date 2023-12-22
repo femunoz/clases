@@ -7,6 +7,7 @@ Un Reglamento especial determinará la fórmula por la cual se seleccionarán la
 Para optar a este Período Especial de Reforzamiento y Evaluación, el estudiante deberá cumplir con los siguientes requisitos: 
 
 a) Haber asistido y rendido todas las evaluaciones programadas de la asignatura en el período lectivo ordinario y haber cumplido con el requisito de asistencia asignado a dicha actividad. 
+
 b) Haber reprobado la asignatura con un promedio final comprendido entre 3,0 y 3,9. 
 
 **Art. 46º** Un estudiante podrá acceder hasta a dos asignaturas en el Periodo Especial de Reforzamiento y Evaluación y deberá asistir al 100% de las actividades programadas. 
