@@ -26,17 +26,33 @@ Mis horarios de atención se definen en cada semestre y en cada asignatura y que
 
 ### Calendario
 
-El calendario se rige por el número de cada semana (de la 1 a la 17) y acorde al calendario académico del semestre en curso (2023-2). Por ejemplo, la semana 8 es la semana del 2 de octubre.
+El calendario se rige por el número de cada semana (de la 1 a la 17) y acorde al calendario académico del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/). Por ejemplo, la semana 8 del calendario académico 2023-2 corresponder a la semana del 2 de octubre, como se observa a continuación.
 
 ![calendario 2023-2](imagenes/calendario_2023-2.png)
 
-### Asignaturas dictadas este semestre 2023-2:
+Esto se irá reflejando en las guías de aprendizaje de cada asignatura.
 
-1. Programación Orientada a Objetos. Programa de asignatura: [Programa_POO](programas/poo.pdf)
+### Investigación:
 
-    - Listado de secciones: [Listado POO](https://docs.google.com/spreadsheets/d/1VdTnpJh6GHsPu6KuppvAg3nYIRdiEebP/edit?usp=sharing&ouid=117143604802158233805&rtpof=true&sd=true)
-    
-2. Inteligencia Artificial. Programa de asignatura: [Programa_IA](programas/ia.pdf)
-3. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
+Mis intereses en investigación son . Le invito a visitar más detalles en mi [perfil de la web de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) 
 
-4. Sistemas de control de procesos. Programa de asignatura: [Sistema de control de Procesos](programas/scp.pdf)
+### Asignaturas que he dictado últimamente en ULagos:
+
+En mi rol de docente, imparto clase en dos carreras:
+
+#### 1. Ingeniería Civil en Informática:
+
+En orden de prioridad de mis intereses de investigación. Más detalles en mi perfil de ANID:  
+
+1. Inteligencia Artificial. Programa de asignatura: [Programa_IA](programas/ia.pdf)
+2. Sistemas Distribuidos.
+3. Programación Orientada a Objetos. Programa de asignatura: [Programa_POO](programas/poo.pdf)
+4. Introducción a la programación
+5. Sistemas de control de procesos. Programa de asignatura: [Sistema de control de Procesos](programas/scp.pdf)
+
+6. Sistemas Operativos.
+7. Redes de computadores.
+
+#### 2. Pedagogía en Educ. Media, mención Matemática y Computación.
+8. 3. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
+9. Diseño y Programación en Aula.
