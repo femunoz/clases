@@ -1,28 +1,31 @@
 
 # Repositorio de información general para clases
 
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN**.
+
 En este repositorio se deja a disposición de las y los estudiantes lineamientos para todos los cursos dictados por el profesor Felipe Muñoz Cañas.
 
 ### Temas administrativos
 
-
 #### Comunicación
 
-Ya se ha informado por interno a las/los estudiantes cuál es mi **correo electrónico**. Para que como estudiantes tengan en consideración cuándo enviar los correos, suelo revisarlo **a lo más** tres veces al día y dentro de horario de oficina: 
+Mi correo electónico **institucional**. 
 
-1. En la mañana.
-2. Al mediodía.
-3. En la tarde (hasta aprox. las 5pm.)
+Para que como estudiantes tengan en consideración los tiempos de respuesta de correo, les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
-En caso de eventos emergentes, la comunicación se realiza de forma directa con las o los **delegados** de cada sección. Por cada sección de las aisgnaturas que imparto es **responsabilidad** del estudiantado elegir a los menos a un(a) compañera/o de sección como **delegado/a**. Esto debe ser informado a mi casilla institucional de correo electrónico (mientras antes, mejor).
+
+En caso de eventos emergentes, la comunicación se realiza de forma directa con las o los **delegados** de cada sección. Por cada sección de las aisgnaturas que imparto es **responsabilidad** del estudiantado elegir a los menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para esto es la semana 2 del calendario académico respectivo.
 
 #### Atención de estudiantes
 
-La atención de estudiantes se realiza en mi oficina ubicada en el segundo piso del pabellón E, frente a la sala Maihue 205.
+La atención de estudiantes se realiza en dos modalidades:
 
-Les solicito por favor coordinar por correo electrónico un evento para la atención. 
+1. Videollamada por **Zoom** y
+2. de manera presencial.
 
-Mi horario de atención para el **semestre 2023-2** es el siguiente:
+Para ambas modalidades les solicito por favor coordinar por correo electrónico un evento para la atención. 
+
+Mis horarios de atención se establecen al principio de cada semestre.
 
 1. Viernes 16:15 a 17:00hs.
 2. (Por definir)
