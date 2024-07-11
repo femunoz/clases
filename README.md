@@ -1,7 +1,7 @@
 
 # Repositorio de Docencia
 
-**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN**.
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Cada quehacer académico se encuentra **delegado** (ver [POSSE]()) en enlaces a continuación, con la institución/ académica respectiva.
 
 En este repositorio se deja a disposición de las y los estudiantes lineamientos para la docencia de los cursos dictados por el académico Felipe Muñoz-Cañas.
 
@@ -26,11 +26,7 @@ Los horarios de atención se definen semestre a semestre en cada asignatura y qu
 
 ### Calendario
 
-El calendario se rige por el número de cada semana (de la 1 a la 17) y acorde al calendario académico del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/). Por ejemplo, la semana 8 del calendario académico 2023-2 corresponder a la semana del 2 de octubre, como se observa a continuación.
-
-![calendario 2023-2](imagenes/calendario_2023-2.png)
-
-Esto se irá reflejando en las guías de aprendizaje de cada asignatura.
+El calendario se rige por el número de cada semana, de la 1 a la 17, y acorde al calendario académico del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/). Es **importante** tener en cuenta que hasta la fecha (julio 2024), las sesiones efectivas de cada asignatura se cruzan con el calendario Chileno y sus respectivos feriados oficiales. Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura.
 
 ### Investigación:
 
@@ -38,19 +34,24 @@ Mis intereses en investigación son Visión artificial, Data Mining, Arquitectur
 
 ### Asignaturas que he dictado últimamente en ULagos:
 
-En mi rol de docente, imparto clase en dos carreras:
+En mi rol de docente, imparto cátedra en dos carreras:
 
-#### 1. Ingeniería Civil en Informática (Malla en [ULagosVirtual](https://www.ulagosvirtual.cl/course/view.php?id=2127&section=11)):
+#### 1. [Ingeniería Civil en Informática](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/)
 
-1. Inteligencia Artificial. Programa de asignatura: [Programa_IA](programas/ia.pdf)
-2. Sistemas Distribuidos. Programa de asignatura: [Programa_SD](programas/sd_2024.pdf)
-4. Programación Orientada a Objetos. Programa de asignatura: [Programa_POO](programas/poo.pdf)
-5. Introducción a la programación
-6. Sistemas de control de procesos. Programa de asignatura: [Sistema de control de Procesos](programas/scp.pdf)
-7. Redes de computadores.
-8. Sistemas Operativos.
+[Decreto Universitario de malla curricular](https://ingenierias.ulagos.cl/wp-content/uploads/2021/03/DU0416-ICINF-nueva-malla.pdf)
 
-#### 2. Pedagogía en Educ. Media, mención Matemática y Computación.
+1. Inteligencia Artificial. [Programa_oficial]((https://drive.google.com/drive/folders/12Eqie5f6nl1XRv8r7yBmBF-t9zmpe4S7))
+2. Sistemas Distribuidos. [Programa_por validar](programas/sd_2024.pdf)
+3. Sistemas Operativos. [Programa oficial](https://drive.google.com/drive/folders/1wjqWrJ7FPs-MfPMozEfABm58qKVqQjeV)
+4. Redes de computadores.[Programa oficial](https://drive.google.com/drive/folders/12Eqie5f6nl1XRv8r7yBmBF-t9zmpe4S7)
+5. Programación Orientada a Objetos. [Programa_Oficial]([programas/poo.pdf](https://drive.google.com/drive/folders/1nYLYjEKp3tAQtp9FFa2bK9VaDabua6dq))
+6. Programación. [Programa oficial](https://drive.google.com/drive/folders/1DSbqGWfFzV-wOG3FUj4CcysE7wZzU3Rz)
+7. Sistemas de control de procesos. [Programa de Plan de estudios descontinuado)](programas/scp.pdf)
+
+
+#### 2. [Pedagogía en Educ. Media, mención Matemática y Computación](https://pmyc.ulagos.cl). 
+
+**Malla Curricular: [pinche aquí](https://pmyc.ulagos.cl/carrera/malla-curricular/)**
 
 1. Estructuras de datos. 
 2. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
