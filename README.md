@@ -1,7 +1,12 @@
 
 # Repositorio de Docencia
 
-**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación, con la institución/ académica respectiva.
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** de mis labores en mi rol de Docencia en la institución que corresponda. Por supuesto, se alínea en la medida de lo posible con la dicha institución u organismo.
+
+
+excluye de respoa cualquier institución/curso/dependencia/departamento y son de **exclusivo** alineamiento personal con la entidad correspondiente. 
+
+Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación, con la institución/ académica respectiva.
 
 En este repositorio se deja a disposición de las y los estudiantes lineamientos para la docencia de los cursos dictados por el académico Felipe Muñoz-Cañas.
 
@@ -11,7 +16,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 Es importante tener en consideración los tiempos de respuesta de correos, les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
-En caso de eventos emergentes, la comunicación se realiza de forma directa entre el **equipo docente** y las o los **delegados** de cada sección de los cursos. Por cada sección de las asignaturas que imparte dicho es **responsabilidad del estudiantado** elegir al menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para informarlo es la semana 2 del **[calendario académico](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/)** correspondiente al semestre en curso.
+En caso de eventos emergentes, la comunicación se realiza de forma directa entre el **equipo docente** y las o los **delegados** de cada sección de los cursos. Por cada sección de las asignaturas que imparto es **responsabilidad del estudiantado** elegir al menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para informarlo es la semana 2 del **[calendario académico](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/)** correspondiente al semestre en curso.
 
 #### Atención de estudiantes
 
