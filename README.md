@@ -43,12 +43,12 @@ En mi rol de docente, imparto clase en dos carreras:
 #### 1. Ingeniería Civil en Informática:
 
 1. Inteligencia Artificial. Programa de asignatura: [Programa_IA](programas/ia.pdf)
-2. Sistemas Distribuidos.
-3. Programación Orientada a Objetos. Programa de asignatura: [Programa_POO](programas/poo.pdf)
-4. Introducción a la programación
-5. Sistemas de control de procesos. Programa de asignatura: [Sistema de control de Procesos](programas/scp.pdf)
-6. Redes de computadores.
-7. Sistemas Operativos.
+2. Sistemas Distribuidos. Programa de asignatura: [Programa_SD](programas/sd_2024.pdf)
+4. Programación Orientada a Objetos. Programa de asignatura: [Programa_POO](programas/poo.pdf)
+5. Introducción a la programación
+6. Sistemas de control de procesos. Programa de asignatura: [Sistema de control de Procesos](programas/scp.pdf)
+7. Redes de computadores.
+8. Sistemas Operativos.
 
 #### 2. Pedagogía en Educ. Media, mención Matemática y Computación.
 
