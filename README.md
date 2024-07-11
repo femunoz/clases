@@ -13,7 +13,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
-1. Plataforma LMS institucional: [ULagos Virtual](https://ulagosvirtual.cl)
+1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl)
 2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada.
 
 Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
