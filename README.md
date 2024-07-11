@@ -1,22 +1,26 @@
 
 # Repositorio de Docencia
 
-**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** de mis labores en mi rol de Docencia en la institución que corresponda. Por supuesto, se alínea en la medida de lo posible con la dicha institución u organismo.
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** en mi rol de docente en la institución u organismo que corresponda. Por supuesto, se alínea en la medida de lo posible con  dicha institución u organismo.
 
+Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación y con la institución o el organismo respectiva.
 
-excluye de respoa cualquier institución/curso/dependencia/departamento y son de **exclusivo** alineamiento personal con la entidad correspondiente. 
-
-Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación, con la institución/ académica respectiva.
-
-En este repositorio se deja a disposición de las y los estudiantes lineamientos para la docencia de los cursos dictados por el académico Felipe Muñoz-Cañas.
+En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](felipe.micro.blog/about).
 
 ### Temas administrativos
 
 #### Comunicación
 
-Es importante tener en consideración los tiempos de respuesta de correos, les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
-En caso de eventos emergentes, la comunicación se realiza de forma directa entre el **equipo docente** y las o los **delegados** de cada sección de los cursos. Por cada sección de las asignaturas que imparto es **responsabilidad del estudiantado** elegir al menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para informarlo es la semana 2 del **[calendario académico](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/)** correspondiente al semestre en curso.
+1. Plataforma LMS institucional: [ULagos Virtual](https://ulagosvirtual.cl)
+2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada.
+
+Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+
+En caso de eventos emergentes, la comunicación se realiza de forma directa entre el **equipo docente** y las o los **delegados** de cada sección de los cursos. 
+
+Por cada sección de las asignaturas que imparto es **responsabilidad del estudiantado** elegir al menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para informarlo es la semana nro. 2 del **[calendario académico](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/)**  en curso.
 
 #### Atención de estudiantes
 
@@ -31,7 +35,12 @@ Los horarios de atención se definen semestre a semestre en cada asignatura y qu
 
 ### Calendario
 
-El calendario se rige por el número de cada semana, de la 1 a la 17, y acorde al calendario académico del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/). Es **importante** tener en cuenta que hasta la fecha (julio 2024), las sesiones efectivas de cada asignatura se cruzan con el calendario Chileno y sus respectivos feriados oficiales. Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura.
+El calendario de clases se rige por el cruce de dos calendarios oficiales:
+
+1. El calendario académico de 17 semanas de [ULagos](https://www.ulagos.cl) del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/).
+2. El calendario Chileno y sus respectivos [feriados](https://www.feriados.cl).
+
+Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura. 
 
 ### Investigación:
 
@@ -61,3 +70,8 @@ En mi rol de docente, imparto cátedra en dos carreras:
 1. Estructuras de datos. 
 2. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
 3. Didáctica de la Programación en Aula.
+
+
+Lineamientos para la docencia © 2022 by Felipe Muñoz-Cañas is licensed under CC BY 4.0 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/femunoz/clases">Lineamientos para la docencia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://felipe.micro.blog/about">Felipe Muñoz-Cañas</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
