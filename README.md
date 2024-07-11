@@ -40,7 +40,7 @@ Mis intereses en investigación son Visión artificial, Data Mining, Arquitectur
 
 En mi rol de docente, imparto clase en dos carreras:
 
-#### 1. Ingeniería Civil en Informática:
+#### 1. Ingeniería Civil en Informática (Malla en [ULagosVirtual](https://www.ulagosvirtual.cl/course/view.php?id=2127&section=11)):
 
 1. Inteligencia Artificial. Programa de asignatura: [Programa_IA](programas/ia.pdf)
 2. Sistemas Distribuidos. Programa de asignatura: [Programa_SD](programas/sd_2024.pdf)
