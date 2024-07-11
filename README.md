@@ -1,7 +1,7 @@
 
 # Repositorio de Docencia
 
-**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Cada quehacer académico se encuentra **delegado** (ver [POSSE]()) en enlaces a continuación, con la institución/ académica respectiva.
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación, con la institución/ académica respectiva.
 
 En este repositorio se deja a disposición de las y los estudiantes lineamientos para la docencia de los cursos dictados por el académico Felipe Muñoz-Cañas.
 
