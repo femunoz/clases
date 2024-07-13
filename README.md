@@ -7,7 +7,7 @@ Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegac
 
 En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](https://felipe.micro.blog/about).
 
---
+----
 
 ## Asignaturas que he dictado últimamente en ULagos:
 
@@ -37,7 +37,7 @@ En mi rol de docente, imparto cátedra en dos carreras:
 
 ## Temas administrativos:
 
---
+----
 
 ### 1. Comunicación
 
@@ -64,7 +64,7 @@ Para ambas modalidades les solicito por favor coordinar por correo electrónico 
 Los horarios de atención se definen semestre a semestre en cada asignatura y quedan disponibles en **ULagos Virtual**.
 
 
----
+----
 
 ### 2. Generalidades para evaluaciones:
 
