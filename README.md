@@ -44,7 +44,7 @@ En mi rol de docente, imparto cátedra en dos carreras:
 #### Principios:
 
 [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
-[37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp]
+[37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
