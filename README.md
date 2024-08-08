@@ -41,6 +41,11 @@ En mi rol de docente, imparto cátedra en dos carreras:
 
 ### 1. Comunicación
 
+#### Principios:
+
+[37signals-basecamp](https://basecamp.com/guides/how-we-communicate)
+
+
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
 1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl)
