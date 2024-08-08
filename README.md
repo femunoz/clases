@@ -1,4 +1,3 @@
-
 # Repositorio de Docencia
 
 **IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** en mi rol de docente en la institución u organismo que corresponda. Por supuesto, se alínea en la medida de lo posible con  dicha institución u organismo.
@@ -8,31 +7,32 @@ Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegac
 En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](https://felipe.micro.blog/about).
 
 ----
+### 1. Ingeniería Civil en Informática:[más info](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/).
 
-## Asignaturas que he dictado últimamente en ULagos:
+#### Semestre 2024-2:
+1. Sistemas Distribuidos.
+2. Sistemas Operativos.
+3. Modelamiento.
 
-En mi rol de docente, imparto cátedra en dos carreras:
+#### Otros semestres:
+- Inteligencia Artificial.
+- Programación Orientada a Objetos.
+- Programación.
 
-### 1. Ingeniería Civil en Informática [más info aquí](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/)
+### 2. Pedagogía en Educ. Media, mención Matemática y Computación: [más info:](https://pmyc.ulagos.cl). 
 
-[Decreto Universitario de malla curricular](https://ingenierias.ulagos.cl/wp-content/uploads/2021/03/DU0416-ICINF-nueva-malla.pdf)
+#### Semestre 2024-2:
 
-1. Inteligencia Artificial. [Programa_oficial]((https://drive.google.com/drive/folders/12Eqie5f6nl1XRv8r7yBmBF-t9zmpe4S7))
-2. Sistemas Distribuidos. [Programa_por validar](programas/sd_2024.pdf)
-3. Sistemas Operativos. [Programa oficial](https://drive.google.com/drive/folders/1wjqWrJ7FPs-MfPMozEfABm58qKVqQjeV)
-4. Redes de computadores.[Programa oficial](https://drive.google.com/drive/folders/12Eqie5f6nl1XRv8r7yBmBF-t9zmpe4S7)
-5. Programación Orientada a Objetos. [Programa_Oficial]([programas/poo.pdf](https://drive.google.com/drive/folders/1nYLYjEKp3tAQtp9FFa2bK9VaDabua6dq))
-6. Programación. [Programa oficial](https://drive.google.com/drive/folders/1DSbqGWfFzV-wOG3FUj4CcysE7wZzU3Rz)
-7. Sistemas de control de procesos. [Programa de Plan de estudios descontinuado)](programas/scp.pdf)
+1. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
+2. Electivo: Desarrollo de aplicaciones web.
 
+#### Otros senestres:
+- Estructuras de datos.
+- Didáctica de la Programación en Aula.
 
-### 2. Pedagogía en Educ. Media, mención Matemática y Computación. [Más info aquí](https://pmyc.ulagos.cl). 
+### 3. Biología Marina.
+1. Métodos computacionales y datos.
 
-**Malla Curricular: [pinche aquí](https://pmyc.ulagos.cl/carrera/malla-curricular/)**
-
-1. Estructuras de datos. 
-2. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
-3. Didáctica de la Programación en Aula.
 
 
 ## Temas administrativos:
@@ -43,8 +43,11 @@ En mi rol de docente, imparto cátedra en dos carreras:
 
 #### Principios:
 
-[37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
-[37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
+Visitar [aquí](https://micro.blog/jeroensangers/12372424)
+Más: 
+- [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
+- [37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
+
 
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
@@ -94,6 +97,12 @@ Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatur
 ### 4. Investigación:
 
 Mis intereses en investigación son Visión artificial, Data Mining, Arquitectura de Software y Educación en Ciencias de la Ingeniería. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) 
+
+## Asignaturas que he dictado últimamente en ULagos:
+
+En mi rol de docente, imparto cátedra en dos carreras:
+
+
 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/femunoz/clases">Lineamientos para la docencia</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://felipe.micro.blog/about">Felipe Muñoz-Cañas</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
