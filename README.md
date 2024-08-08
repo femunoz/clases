@@ -4,7 +4,7 @@
 
 Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación y con la institución o el organismo respectiva.
 
-En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](https://felipe.micro.blog/about).
+En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](https://felipe-mc.link).
 
 ----
 ### 1. Ingeniería Civil en Informática:[más info](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/).
