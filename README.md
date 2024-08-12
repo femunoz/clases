@@ -7,6 +7,11 @@ Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegac
 En este repositorio se deja a disposición de las y los estudiantes lineamientos generales para la docencia de los cursos dictados por [Felipe Muñoz-Cañas](https://felipe-mc.link).
 
 ----
+
+## Asignaturas que he dictado últimamente en ULagos:
+
+En mi rol de docente, imparto cátedra en tres carreras:
+
 ### 1. Ingeniería Civil en Informática:[más info](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/).
 
 #### Semestre 2024-2:
@@ -105,11 +110,6 @@ Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatur
 ### 4. Investigación:
 
 Mis intereses en investigación son Visión artificial, Data Mining, Arquitectura de Software y Educación en Ciencias de la Ingeniería. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) 
-
-## Asignaturas que he dictado últimamente en ULagos:
-
-En mi rol de docente, imparto cátedra en dos carreras:
-
 
 
 
