@@ -69,9 +69,7 @@ Los medios de comunicación **instititucionales oficiales** son sólo dos:
 
 Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
-En caso de eventos emergentes, la comunicación se realiza de forma directa entre el **equipo docente** y las o los **delegados** de cada sección de los cursos. 
-
-Por cada sección de las asignaturas que imparto es **responsabilidad del estudiantado** elegir al menos a **dos** compañeras/os como **delegadas/os**. Esto debe ser informado a mi casilla de correo electrónico institucional. El plazo para informarlo es la semana nro. 2 del **[calendario académico](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/)**  en curso.
+En caso de eventos emergentes, la comunicación se realiza de forma directa mediante correo.
 
 #### 1.1. Atención de estudiantes
 
