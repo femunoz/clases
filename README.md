@@ -50,10 +50,10 @@ En mi rol de docente, imparto cátedra en tres carreras:
 
 Cada equipo tendrá sus propias soluciones, pero para mi, algunas de las claves de la comunicación para equipos en remoto son:
 
-- **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración.
-- **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias.
-- **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartico, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
-- **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal?
+i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración.
+ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias.
+iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartico, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
+iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal?
 
 Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
 
@@ -61,6 +61,7 @@ Más:
 - [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
 - [37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 
+Para el curso se hará como se muestra a continuación, en orden de prioridad.
 
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
@@ -69,7 +70,9 @@ Los medios de comunicación **instititucionales oficiales** son sólo dos:
 
 Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
-En caso de eventos emergentes, la comunicación se realiza de forma directa mediante correo.
+En caso de eventos **emergentes**, la comunicación se realiza de forma directa mediante correo.
+
+3. De acuerdo con i, como medio de **comunicación colaborativa** utilizaremos Trello (enlace en UV).
 
 #### 1.1. Atención de estudiantes
 
