@@ -1,6 +1,7 @@
 
 # Tutorial de C
 
+## Planificación:
 
 ### Semanas 2-4
 [C HOME](https://www.w3schools.com/c/index.php)
