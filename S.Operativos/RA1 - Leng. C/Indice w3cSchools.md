@@ -53,15 +53,18 @@ Se debe entregar una captura de pantalla con los ejercicios completados por UV. 
 ### Semana 6:
 
 Martes y viernes:
+
 [C Arrays](https://www.w3schools.com/c/c_arrays.php)
 
 [C Strings](https://www.w3schools.com/c/c_strings.php)
+
 Se trabaja en ejercicios en aula.
 
 ### Semana 7:
 
-Martes: repaso/dudas/resolución de guía.
-**Viernes 4/oct.: Eval. escrita.** 
+Martes: repaso/dudas/resolución de problemas en aula.
+
+**Viernes 4/oct.:** Eval. escrita.
 
 ---
 
