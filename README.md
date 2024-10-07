@@ -29,12 +29,14 @@ Más detalles y como referencia extra para estos principios:
 - [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
 - [37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 
+#### Estrategia de comunicación de cursos ULagos
+
 Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad.
 
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
 1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl)
-2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada. Favor recordar utilizar un asunto de la siguiente forma: \[Curso asunto\]. Ej., para un curso de Sistemas Operativos usaremos la sigla de éste y luego el asunto: \[_SD notas publicadas en la plataforma_\].
+2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada. Favor recordar utilizar un asunto de la siguiente forma: **\[Curso asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**.
 
 Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
