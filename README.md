@@ -34,7 +34,7 @@ Para cada curso se utilizará la siguiente estrategia de comunicación, en orden
 Los medios de comunicación **instititucionales oficiales** son sólo dos: 
 
 1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl)
-2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada.
+2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada. Favor recordar utilizar un asunto de la siguiente forma: \[Curso asunto\]. Ej., para un curso de Sistemas Operativos usaremos la sigla de éste y luego el asunto: \[_SD notas publicadas en la plataforma_\].
 
 Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
 
