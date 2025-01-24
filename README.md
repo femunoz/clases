@@ -99,7 +99,7 @@ En mi rol de docente, imparto cátedras principalmente dos carreras, en 2024-2 a
 ----
 ### Investigación:
 
-Mis intereses en investigación son Visión artificial, Data Mining, Arquitectura de Software y Educación en Ciencias de la Ingeniería. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) 
+Mis intereses en investigación son Visión artificial, Data Mining, Arquitectura de Software, Educación en Ciencias de la Ingeniería y desde 2024 Biotecnología. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) (siempre en construcción)
 
 
 
