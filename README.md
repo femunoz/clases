@@ -68,33 +68,33 @@ Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatur
 ----
 ## Asignaturas que he dictado últimamente en ULagos:
 
-En mi rol de docente, imparto cátedra en tres carreras:
+En mi rol de docente, imparto cátedras principalmente dos carreras, en 2024-2 además en una tercera, Biología Marina.
 
 ### 1. Ingeniería Civil en Informática:[más info](https://ingenierias.ulagos.cl/carreradepto/ingenieria-civil-en-informatica/).
 
 #### Semestre 2024-2:
 1. Sistemas Distribuidos.
 2. Sistemas Operativos.
-3. Modelamiento.
-
-#### Otros semestres:
-- Inteligencia Artificial.
-- Programación Orientada a Objetos.
-- Programación.
+3. Modelamiento (compartido e impartido por 1era. vez)
 
 ### 2. Pedagogía en Educ. Media, mención Matemática y Computación: [más info:](https://pmyc.ulagos.cl). 
 
 #### Semestre 2024-2:
 
-1. Diseño y Programación Web. Programa de asignatura: [Programa_DPW](programas/dpw.pdf)
-2. Electivo: Desarrollo de aplicaciones web.
-
-#### Otros senestres:
-- Estructuras de datos.
-- Didáctica de la Programación en Aula.
+4. Diseño y Programación Web (compartido y actualizado al 2024). 
+5. Electivo: Desarrollo de aplicaciones web (impartido por 1era. vez y actualizado al 2024).
+6. Profesor Patrocinante de Anteproyecto de Título (por primera vez en PMyC).
 
 ### 3. Biología Marina.
-1. Métodos computacionales y datos.
+
+7. Métodos computacionales y datos (impartido por primera vez y readecuado a los SCT solicitados Institucionalmente).
+
+#### Otros senestres:
+- Estructuras de datos (PMyC, rediseñado).
+- Didáctica de la Programación en Aula (PMyC).
+- Inteligencia Artificial (ICINF).
+- Programación Orientada a Objetos (ICINF).
+- Programación (ICINF y PMyC).
 
 ----
 ### Investigación:
