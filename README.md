@@ -43,7 +43,7 @@ Para cada curso se utilizará la siguiente estrategia de comunicación, en orden
 Los **unicos medios de comunicación instititucionales oficiales** son sólo los siguientes: 
 
 1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl) 
-2. Herramientas del Workspace de Google institucional: GMail, GDocs, GCal, GTalk, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos (aquí)[https://ingenierias.ulagos.cl/cuerpoacademico/].
+2. Herramientas del Workspace de Google institucional: GMail, GDocs, GCal, GTalk, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
 
 **IMPORTANTE:**
 
