@@ -1,6 +1,6 @@
 # Repositorio de Docencia
 
-**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** en mi rol de docente en la institución u organismo que corresponda. Por supuesto, se alínea en la medida de lo posible con  dicha institución u organismo.
+**IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** en mi rol de docente en la institución u organismo que corresponda. Por supuesto, prentende alinearse en la medida de lo posible con la institución u organismo correpondiente.
 
 Cada quehacer académico se encuentra **delegado** (más detalles sobre "delegación", ver "POSSE" en [sitio de indieweb](https://indieweb.org/POSSE)) en enlaces a continuación y con la institución o el organismo respectiva.
 
@@ -9,11 +9,18 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 ----
 ## Temas administrativos:
 ----
-### 1. Comunicación
+### 1. Equipo Docente
+
+- Felipe Muñoz Cañas
+- Yesica Mancilla
+- Ayudantes
+
+
+### 2. Comunicación
 
 #### Principios:
 
-Cada equipo tendrá sus propias soluciones, pero para mi, algunas de las claves de la comunicación para equipos en remoto son:
+Cada equipo tendrá sus propias soluciones, pero para mí, algunas de las claves de la comunicación para equipos son:
 
 i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración.
 
@@ -33,23 +40,33 @@ Más detalles y como referencia extra para estos principios:
 
 Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad.
 
-Los medios de comunicación **instititucionales oficiales** son sólo dos: 
+Los **unicos medios de comunicación instititucionales oficiales** son sólo los siguientes: 
 
-1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl)
-2. Correo electrónico institucional, que ser informa en aula y en la plataforma antes mencionada. Favor recordar utilizar un asunto de la siguiente forma: **\[Curso asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**.
+1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl) 
+2. Herramientas del Workspace de Google institucional: GMail, GDocs, GCal, GTalk, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos (aquí)[https://ingenierias.ulagos.cl/cuerpoacademico/].
 
-Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+**IMPORTANTE:**
 
-En caso de eventos **emergentes**, la comunicación se realiza de forma directa mediante correo.
+1. Favor recordar utilizar el siguiente patrón en el asunto de cada asignatura: **\[<Curso> asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
 
-3. De acuerdo con i, como medio de **comunicación colaborativa** utilizaremos Trello (enlace en UV).
+2. Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+
+3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o GTalk.
 
 #### 1.1. Atención de estudiantes
 
-La atención de estudiantes se realiza en dos modalidades:
+La atención de estudiantes se realiza en dos modalidades y en orden de prioridad:
 
-1. Videollamada por **Zoom** y
-2. de manera presencial.
+1. De manera presencial.
+2. Videollamada por **Zoom** y
+
+Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención. 
+
+\
+\#### AQUI VOY
+\
+
+ENLACE A VIDEO EN YOUTUBE:
 
 Para ambas modalidades les solicito por favor coordinar por correo electrónico un evento para la atención. 
 
