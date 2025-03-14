@@ -12,7 +12,7 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 ### 1. Equipo Docente
 
 - Felipe Muñoz Cañas
-- Yesica Mancilla
+- Yesica Mancilla Acum
 - Ayudantes
 
 
@@ -60,13 +60,11 @@ La atención de estudiantes se realiza en dos modalidades y en orden de priorida
 1. De manera presencial.
 2. Videollamada por **Zoom** y
 
-Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención. 
+Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención a estudiantes. 
 
-\
-\#### AQUI VOY
-\
+En [este video](https://www.youtube.com) se resume cómo uso GCal como una forma más rápida de comunicarnos. 
 
-ENLACE A VIDEO EN YOUTUBE:
+
 
 Para ambas modalidades les solicito por favor coordinar por correo electrónico un evento para la atención. 
 
