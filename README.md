@@ -15,25 +15,20 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 - Yesica Mancilla Acum
 - Ayudantes
 
-
 ### 2. Comunicación
 
 #### Principios:
 
 Cada equipo tendrá sus propias soluciones, pero para mí, algunas de las claves de la comunicación para equipos son:
 
-i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración.
+- **Centraliza la comunicación.**
+- **Comunicación asíncrona por defecto.**
+- **Sobre-comunica.** 
+- **Establece un plan de comunicación interna.**
 
-ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias.
-
-iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartico, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
-
-iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal?
-
-Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
+Más detalles: [aquí](https://micro.blog/jeroensangers/12372424)
 
 Más detalles y como referencia extra para estos principios: 
-- [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
 - [37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 
 #### Estrategia de comunicación de cursos ULagos
