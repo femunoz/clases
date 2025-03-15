@@ -42,9 +42,9 @@ Los **unicos medios de comunicación instititucionales oficiales** son sólo los
 
 **IMPORTANTE:**
 
-1. Favor recordar utilizar el siguiente patrón en el asunto de cada asignatura: **\[<Curso> asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
+1. Favor recordar utilizar el siguiente **patrón** en el asunto de cada asignatura: **\[<Curso> asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
 
-2. Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+2. Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [tiempos de respuesta de correos](https://felipe.micro.blog/emailulagos/) para mayor detalles.
 
 3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o GTalk.
 
