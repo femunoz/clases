@@ -1,4 +1,4 @@
-# Repositorio de Docencia
+# Repositorio de Docencia - 2025
 
 **IMPORTANTE:** este repositorio está constantemente **EN CONSTRUCCIÓN** y es personal. Esto último implica que lo aquí expresado es de **exclusiva responsabilidad de mi persona** en mi rol de docente en la institución u organismo que corresponda. Por supuesto, prentende alinearse en la medida de lo posible con la institución u organismo correpondiente.
 
@@ -47,11 +47,13 @@ Los **unicos medios de comunicación instititucionales oficiales** son sólo los
 
 **IMPORTANTE:**
 
-1. Favor recordar utilizar el siguiente patrón en el asunto de cada asignatura: **\[<Curso> asunto\]**. Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
+1. Favor recordar utilizar el siguiente [patrón](https://es.wikipedia.org/wiki/Patr%C3%B3n_(estructura)) en el asunto de cada asignatura: **\[<Curso> asunto\]**.
 
-2. Es **importante** tener en consideración los tiempos de respuesta de correos. Les invito a visitar [Tiempos de respuesta ULagos](https://felipe.micro.blog/emailulagos/).
+  Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
 
-3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o GTalk.
+2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
+
+5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o GTalk.
 
 #### 1.1. Atención de estudiantes
 
