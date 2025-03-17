@@ -76,18 +76,23 @@ El calendario de clases se rige por el cruce de dos calendarios oficiales:
 Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura.
 
 ----
-## Asignaturas que he dictado últimamente en ULagos:
+## Asignaturas que dicto en 2025-1
+
+1. Inteligencia Artificial - 5to. año.
+2. Análisis y diseño de Algoritmos - 3er. año.
+3. Estructura de datos - 2do. año.
 
 
-https://github.com/femunoz/clases/catedras.md
+Algunas que he dictado antes en ULagos:
 
-En mi rol de docente, imparto cátedras principalmente dos carreras, en 2024-2 además en una tercera, Biología Marina.
+\# EN CONSTRUCCIÓN
+https://github.com/femunoz/clases/documents/catedras.md
 
 
 ----
 ### Investigación:
 
-Mis intereses en investigación son Visión artificial, Data Mining, Arquitectura de Software, Educación en Ciencias de la Ingeniería y desde 2024 Biotecnología. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) (siempre en construcción)
+Mis intereses en investigación son Visión artificial, Patrones en grandes cantidades de datos, Arquitectura de Software, Educación en Ciencias de la Ingeniería y Biotecnología. Le invito a visitar más detalles en mi [perfil de investigador de ANID](https://investigadores.anid.cl/es/people/48971-Felipe_Muoz) (siempre en construcción)
 
 
 
