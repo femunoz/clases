@@ -32,9 +32,6 @@ iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicaci
 
 Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
 
-Más detalles y como referencia extra para estos principios: 
-- [37signals basecamp (inglés)](https://basecamp.com/guides/how-we-communicate)
-- [37signals basecamp (español)](https://basecamp-com.translate.goog/guides/how-we-communicate?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 
 #### Estrategia de comunicación de cursos ULagos
 
@@ -43,7 +40,7 @@ Para cada curso se utilizará la siguiente estrategia de comunicación, en orden
 Los **unicos medios de comunicación instititucionales oficiales** son sólo los siguientes: 
 
 1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl) 
-2. Herramientas del Workspace de Google institucional: GMail, GDocs, GCal, GTalk, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
+2. Herramientas del **Workspace de Google** institucional: GMail, GDocs, GCal, GTalk, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
 
 **IMPORTANTE:**
 
@@ -65,10 +62,6 @@ La atención de estudiantes se realiza en dos modalidades y en orden de priorida
 Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención a estudiantes. 
 
 En [este video](https://www.youtube.com) se resume cómo uso GCal como una forma más rápida de comunicarnos. 
-
-
-
-Para ambas modalidades les solicito por favor coordinar por correo electrónico un evento para la atención. 
 
 Los horarios de atención se definen semestre a semestre en cada asignatura y quedan disponibles en **ULagos Virtual**.
 
