@@ -61,8 +61,6 @@ La atención de estudiantes se realiza en dos modalidades y en orden de priorida
 
 Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención a estudiantes. 
 
-En [este video](https://www.youtube.com) se resume cómo uso GCal como una forma más rápida de comunicarnos. 
-
 Los horarios de atención se definen semestre a semestre en cada asignatura y quedan disponibles en **ULagos Virtual**.
 
 ----
@@ -83,11 +81,7 @@ Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatur
 3. Estructura de datos - 2do. año.
 
 
-Algunas que he dictado antes en ULagos:
-
-\# EN CONSTRUCCIÓN
-https://github.com/femunoz/clases/documents/catedras.md
-
+Algunas que he dictado antes en ULagos [aquí](https://github.com/femunoz/clases/blob/main/documents/README.md)
 
 ----
 ### Investigación:
