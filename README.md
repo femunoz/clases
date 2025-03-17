@@ -79,7 +79,7 @@ Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatur
 ## Asignaturas que he dictado últimamente en ULagos:
 
 
-https://github.com/femunoz/clases/catedras
+https://github.com/femunoz/clases/catedras.md
 
 En mi rol de docente, imparto cátedras principalmente dos carreras, en 2024-2 además en una tercera, Biología Marina.
 
