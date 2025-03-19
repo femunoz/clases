@@ -68,7 +68,7 @@ Los horarios de atención se definen semestre a semestre en cada asignatura y qu
 
 El calendario de clases se rige por el cruce de dos calendarios oficiales:
 
-1. El calendario académico de 17 semanas de [ULagos](https://www.ulagos.cl) del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/).
+1. El calendario académico de 18 semanas de [ULagos](https://www.ulagos.cl) del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/).
 2. El calendario Chileno y sus respectivos [feriados](https://www.feriados.cl).
 
 Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura.
