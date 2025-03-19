@@ -50,7 +50,7 @@ Los **unicos medios de comunicación instititucionales oficiales** son sólo los
 
 2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o GTalk.
+5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Chat (de Google), disponible en los stores de Android e iOS).
 
 #### 1.1. Atención de estudiantes
 
