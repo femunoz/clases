@@ -12,7 +12,6 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 ### 1. Equipo Docente
 
 - Felipe Muñoz Cañas
-- Yesica Mancilla Acum
 - Ayudantes
 
 
