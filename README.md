@@ -44,9 +44,12 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 **IMPORTANTE:**
 
-1. Favor recordar utilizar el siguiente [patrón](https://es.wikipedia.org/wiki/Patr%C3%B3n_(estructura)) en el asunto de cada asignatura: **\[\<sigla_curso\> asunto\]**.
+1. Favor recordar utilizar el siguiente [patrón](https://es.wikipedia.org/wiki/Patr%C3%B3n_(estructura)) en el asunto de cada asignatura:
+2.
+3.
+4. **\[Etiqueta/Contexto\] Tema Principal - Acción o Fecha**.
 
-  Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO notas publicadas en la plataforma_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
+  Ej., para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO] notas publicadas en la plataforma - Revisar_\]**. Los correos que no sigan este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
 
 2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
