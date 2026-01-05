@@ -50,7 +50,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Google Chat.
+3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Google Chat.
 
 #### 1.1. Atención de estudiantes
 
@@ -73,7 +73,7 @@ El calendario de clases se rige por el cruce de dos calendarios oficiales:
 
 Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatura.
 
-
+---
 ### 3. Sobre evaluaciones y notas
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
