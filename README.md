@@ -34,12 +34,13 @@ Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
 
 #### Estrategia de comunicación de cursos ULagos
 
-Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad.
+Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad y son los **unicos medios de comunicación instititucionales oficiales**: 
 
-Los **unicos medios de comunicación instititucionales oficiales** son sólo los siguientes: 
+1. GMail institucional: ...@alumnos.ulagos.cl y mi correo disponible en ULagos Virtual.
+2. Plataforma [ULagos Virtual](https://www.ulagosvirtual.cl)
+3. Google Chat. App tipo WhatsApp, móvil de Google, disponible para iOS y Android.
 
-1. Plataforma LMS institucional: [ULagos Virtual](https://www.ulagosvirtual.cl) 
-2. Herramientas del **Workspace de Google** institucional: GMail, GDocs, GCal, Google Chat, etc. El correo electrónico institucional está disponible en la sección de cada curso en UV. Además se puede acceder a información y correos institucionales del cuerpo académico de las Ingenierías de ULagos [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
+Los emails institucionales del cuerpo académico de las Ingenierías de ULagos se encuentra [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
 
 **IMPORTANTE:**
 
@@ -49,16 +50,16 @@ Los **unicos medios de comunicación instititucionales oficiales** son sólo los
 
 2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Chat (de Google), disponible en los stores de Android e iOS).
+5. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Google Chat.
 
 #### 1.1. Atención de estudiantes
 
 La atención de estudiantes se realiza en dos modalidades y en orden de prioridad:
 
 1. De manera presencial.
-2. Videollamada por **Zoom** y
+2. Por videollamada
 
-Por lineamientos institucionales, cada asignatura debiera tener al menos 45min. de atención a estudiantes. 
+Por lineamientos institucionales, cada asignatura debe tener al menos 45min. de atención a estudiantes. 
 
 Los horarios de atención se definen semestre a semestre en cada asignatura y quedan disponibles en **ULagos Virtual**.
 
@@ -70,7 +71,12 @@ El calendario de clases se rige por el cruce de dos calendarios oficiales:
 1. El calendario académico de 18 semanas de [ULagos](https://www.ulagos.cl) del [semestre en curso](https://www.ulagos.cl/portal-del-estudiante/calendario-academico/).
 2. El calendario Chileno y sus respectivos [feriados](https://www.feriados.cl).
 
-Este cruce se irá reflejando en las **guías de aprendizaje** de cada asignatura.
+Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatura.
+
+
+### 3. Sobre evaluaciones y notas
+
+Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
 
 ----
 ## Asignaturas que dicto en 2025-1
