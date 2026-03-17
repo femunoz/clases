@@ -25,7 +25,7 @@ i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una pl
 
 ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias.
 
-iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartico, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
+iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartido, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
 
 iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal?
 
