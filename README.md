@@ -81,11 +81,13 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
 
 ----
-## Asignaturas que dicto en 2025-1
+## Asignaturas que dicto en 2026-1
 
-1. Inteligencia Artificial - 5to. año.
-2. Análisis y diseño de Algoritmos - 3er. año.
-3. Estructura de datos - 2do. año.
+1. Programación Orientada a Objetos - 1er. año.
+2. Estructura de datos - 2do. año.
+3. Modelamiento - 3er. año.
+4. Tecnologías móviles y web - 3er. año..
+5. Electivo de Gestión Ágil de Proyectos - 5to. año.
 
 
 Algunas que he dictado antes en ULagos [aquí](https://github.com/femunoz/clases/blob/main/documents/README.md)
