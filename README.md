@@ -38,7 +38,7 @@ Para cada curso se utilizará la siguiente estrategia de comunicación, en orden
 
 1. GMail institucional: ...@alumnos.ulagos.cl y mi correo disponible en ULagos Virtual.
 2. Plataforma [ULagos Virtual](https://www.ulagosvirtual.cl)
-3. Google Chat. App tipo WhatsApp, móvil de Google, disponible para iOS y Android.
+3. Google Chat, disponible para iOS, Android y PC (web).
 
 Los emails institucionales del cuerpo académico de las Ingenierías de ULagos se encuentra [aquí](https://ingenierias.ulagos.cl/cuerpoacademico/).
 
