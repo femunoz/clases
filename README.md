@@ -20,7 +20,10 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google y ULagos  Virtual..
 
-ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: GMail, GCalendar, Quickmail.
+ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: 
+  * GMail,
+  * GCalendar (se dejará el enlace a los eventos en U.Virtual. Es exclusiva responsabilidad de cada estudiante inscribirse a los eventos de cada clase)
+  * Quickmail.
 
 iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases o que su comienzo se pospone unos minutos, llegará una notificación de G. Calendar.
 
@@ -49,7 +52,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 3. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-4. En caso de eventos **emergentes**, la comunicación se centraliza por GMail o Google Chat.
+4. En caso de eventos **emergentes**, la comunicación se centraliza por GMail, Google Chat o G. Calendar.
 
 #### 1.1. Atención de estudiantes
 
