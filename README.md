@@ -61,8 +61,6 @@ La atención de estudiantes se realiza en dos modalidades y en orden de priorida
 
 Por lineamientos institucionales, cada asignatura debe tener al menos 45min. de atención a estudiantes. 
 
-Los horarios de atención se definen semestre a semestre en cada asignatura y quedan disponibles en **ULagos Virtual**.
-
 ----
 ### 2. Planificación y calendario
 
