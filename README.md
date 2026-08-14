@@ -85,7 +85,7 @@ Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un
 
 
 ----
-## Asignaturas que dicto en 2026-1
+## Asignaturas que dicto en 2026-2
 
 1. Programación [Prog] - 1er. año.
 2. Estructura de datos [ED] - 2do. año.
