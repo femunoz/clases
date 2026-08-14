@@ -20,11 +20,11 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google y ULagos  Virtual..
 
-ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: GMail, GCalendar, Quickmail y app Chat de Google (Android/iOS).
+ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: GMail, GCalendar, Quickmail.
 
-iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases y ya está anotado en el calendario compartido, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
+iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases o que su comienzo se pospone unos minutos, llegará una notificación de G. Calendar.
 
-iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? 
+iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? **Google Suite**.
 
 Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
 
