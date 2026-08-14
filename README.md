@@ -21,13 +21,13 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 Cada equipo tendrá sus propias soluciones, pero para mí, algunas de las claves de la comunicación para equipos son:
 
-i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración.
+i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google.
 
-ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias.
+ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: GMail, GCalendar, Quickmail y app Chat de Google (Android/iOS).
 
 iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartido, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
 
-iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal?
+iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? 
 
 Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
 
@@ -58,8 +58,8 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 La atención de estudiantes se realiza en dos modalidades y en orden de prioridad:
 
-1. De manera presencial.
-2. Por videollamada
+1. De manera presencial: martes, miércoles y jueves.
+2. Por videollamada: GMeet.
 
 Por lineamientos institucionales, cada asignatura debe tener al menos 45min. de atención a estudiantes. 
 
@@ -79,6 +79,8 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 ### 3. Sobre evaluaciones y notas
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
+
+La asistencia a clases es voluntaria y es responsabilidad del estudiante marcar en el sistema de ULagos. Asistir a evaluaciones es obligatorio, salvo certificado médico (SEMDA). No rendir una evaluación sin justificación tiene como consecuencia 
 
 ----
 ## Asignaturas que dicto en 2026-1
