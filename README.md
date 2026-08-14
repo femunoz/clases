@@ -17,15 +17,12 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 
 ### 2. Comunicación
 
-#### Principios:
 
-Cada equipo tendrá sus propias soluciones, pero para mí, algunas de las claves de la comunicación para equipos son:
-
-i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google.
+i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google y ULagos  Virtual..
 
 ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: GMail, GCalendar, Quickmail y app Chat de Google (Android/iOS).
 
-iii) **Sobre-comunica.** Aunque ya has comunicado que, por ejemplo, este martes no estarás conectado y ya está anotado en el calendario compartido, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
+iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases y ya está anotado en el calendario compartido, vuelve a comunicarlo el día antes e incluso programa un mensaje al inicio de ese día.
 
 iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? 
 
@@ -44,7 +41,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 **IMPORTANTE:**
 
-1. Favor recordar utilizar el siguiente [patrón](https://es.wikipedia.org/wiki/Patr%C3%B3n_(estructura)) en el asunto de cada asignatura:
+1. Favor recordar utilizar el siguiente [_patrón_](https://es.wikipedia.org/wiki/Patr%C3%B3n_(estructura)) en el asunto de cada asignatura:
 
 2. **\[Etiqueta/Contexto\] Tema Principal - Acción o Fecha**.
 
@@ -59,7 +56,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 La atención de estudiantes se realiza en dos modalidades y en orden de prioridad:
 
 1. De manera presencial: martes, miércoles y jueves.
-2. Por videollamada: GMeet.
+2. Videollamada por Google Meet: de lun. a vie., previa coordinación por correo.
 
 Por lineamientos institucionales, cada asignatura debe tener al menos 45min. de atención a estudiantes. 
 
@@ -78,18 +75,23 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 ---
 ### 3. Sobre evaluaciones y notas
 
-Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
+Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de **10 días hábiles** para **revisarla y consultar** cualquier duda sobre la corrección de ésta.
 
-La asistencia a clases es voluntaria y es responsabilidad del estudiante marcar en el sistema de ULagos. Asistir a evaluaciones es obligatorio, salvo certificado médico (SEMDA). No rendir una evaluación sin justificación tiene como consecuencia que se considere la asistencia para la eventual reprobación.
+#### 3.1 Asistencia
+
+* La asistencia a clases es **voluntaria** y es responsabilidad de cada estudiante marcar en el sistema de ULagos. Asistir a **evaluaciones** es **obligatorio** (su ausencia será calificada con nota mínima), salvo certificado médico del [SEMDA](https://www.ulagos.cl/portal-del-estudiante/semda/). 
+
+* Sin embargo, en caso de tener la nota mínima en alguna de las evaluaciones, se **exigirá** el porcentaje mínimo de asistencia para aprobar (75%).
+
+
 
 ----
 ## Asignaturas que dicto en 2026-1
 
-1. Programación Orientada a Objetos - 1er. año.
-2. Estructura de datos - 2do. año.
-3. Modelamiento - 3er. año.
-4. Tecnologías móviles y web - 3er. año..
-5. Electivo de Gestión Ágil de Proyectos - 5to. año.
+1. Programación [Prog] - 1er. año.
+2. Estructura de datos [ED] - 2do. año.
+3. Modelamiento [MPP] - 3er. año.
+4. Sistemas Distribuidos [SD] - 5to. año.
 
 
 Algunas que he dictado antes en ULagos [aquí](https://github.com/femunoz/clases/blob/main/documents/README.md)
