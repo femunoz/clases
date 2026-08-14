@@ -80,7 +80,7 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de 10 días hábiles para revisarla y consultar cualquier duda sobre la corrección de ésta.
 
-La asistencia a clases es voluntaria y es responsabilidad del estudiante marcar en el sistema de ULagos. Asistir a evaluaciones es obligatorio, salvo certificado médico (SEMDA). No rendir una evaluación sin justificación tiene como consecuencia 
+La asistencia a clases es voluntaria y es responsabilidad del estudiante marcar en el sistema de ULagos. Asistir a evaluaciones es obligatorio, salvo certificado médico (SEMDA). No rendir una evaluación sin justificación tiene como consecuencia que se considere la asistencia para la eventual reprobación.
 
 ----
 ## Asignaturas que dicto en 2026-1
