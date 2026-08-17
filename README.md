@@ -78,8 +78,9 @@ Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un
 
 #### 3.1 Asistencia
 
-* La asistencia a clases es **voluntaria** y es responsabilidad de cada estudiante marcar en el sistema de ULagos. Asistir a **evaluaciones** es **obligatorio** (su ausencia será calificada con nota mínima), salvo certificado médico del [SEMDA](https://www.ulagos.cl/portal-del-estudiante/semda/). 
-
+* La asistencia a clases es **voluntaria** y es responsabilidad de cada estudiante marcar en el sistema de ULagos.
+* No se harán adaptaciones a la asistencia al final del semestre.
+* Asistir a **evaluaciones** es **obligatorio** (su ausencia será calificada con nota mínima), salvo certificado médico del [SEMDA](https://www.ulagos.cl/portal-del-estudiante/semda/). 
 * Sin embargo, en caso de tener la nota mínima en alguna de las evaluaciones, se **exigirá** el porcentaje mínimo de asistencia para aprobar (75%).
 
 
