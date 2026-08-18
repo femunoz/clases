@@ -50,9 +50,9 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
   Para un curso de **Sistemas Operativos** usaremos la sigla de éste y luego el asunto: **\[_SO] notas publicadas en la plataforma - Revisar_**. Los correos que **no sigan** este patrón tienen una alta probabilidad de no ser leídos por el equipo docente.
 
-3. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
+2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-4. En caso de eventos **emergentes**, la comunicación se centraliza por GMail, Google Chat o G. Calendar.
+3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail, Google Chat o G. Calendar.
 
 #### 2.2. Atención de estudiantes
 
