@@ -75,8 +75,8 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 ### 3. Sobre evaluaciones y notas
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de **10 días hábiles** para **revisarla y consultar** cualquier duda sobre la corrección de ésta.
-
-#### 3.1 Asistencia
+---
+### 4. Asistencia
 
 * La asistencia a clases es **voluntaria** y es responsabilidad de cada estudiante marcar en el sistema de ULagos.
 * No se harán adaptaciones a la asistencia al final del semestre.
