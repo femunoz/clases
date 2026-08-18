@@ -77,6 +77,7 @@ Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatur
 ### 4. Sobre evaluaciones y notas
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de **10 días hábiles** para **revisarla y consultar** cualquier duda sobre la corrección de ésta.
+
 ---
 ### 5. Asistencia
 
