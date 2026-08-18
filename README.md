@@ -24,7 +24,7 @@ i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una pl
 
 ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: 
   * GMail,
-  * GCalendar (se dejará el enlace a los eventos en U.Virtual. Es exclusiva responsabilidad de cada estudiante inscribirse a los eventos de cada clase)
+  * GCalendar (cada clase será un evento en el calendario. Se invitará a cada estudiante a los eventos repetitivos)
   * Quickmail.
 
 iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases o que su comienzo se pospone unos minutos, llegará una notificación de G. Calendar.
@@ -34,7 +34,7 @@ iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicaci
 Basado en [lineamientos Jeroen Sangers](https://micro.blog/jeroensangers/12372424)
 
 
-#### Estrategia de comunicación de cursos ULagos
+#### 2.1 Estrategia de comunicación de cursos ULagos
 
 Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad y son los **unicos medios de comunicación instititucionales oficiales**: 
 
@@ -54,7 +54,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 4. En caso de eventos **emergentes**, la comunicación se centraliza por GMail, Google Chat o G. Calendar.
 
-#### 1.1. Atención de estudiantes
+#### 2.2. Atención de estudiantes
 
 La atención de estudiantes se realiza en dos modalidades y en orden de prioridad:
 
@@ -64,7 +64,7 @@ La atención de estudiantes se realiza en dos modalidades y en orden de priorida
 Por lineamientos institucionales, cada asignatura debe tener al menos 45min. de atención a estudiantes. 
 
 ----
-### 2. Planificación y calendario
+### 3. Planificación y calendario
 
 El calendario de clases se rige por el cruce de dos calendarios oficiales:
 
@@ -74,11 +74,11 @@ El calendario de clases se rige por el cruce de dos calendarios oficiales:
 Este cruce se irá reflejando en las **Guías de aprendizaje** de cada asignatura.
 
 ---
-### 3. Sobre evaluaciones y notas
+### 4. Sobre evaluaciones y notas
 
 Una vez rendida una evaluación y publicada su nota, el o la estudiante tiene un plazo de **10 días hábiles** para **revisarla y consultar** cualquier duda sobre la corrección de ésta.
 ---
-### 4. Asistencia
+### 5. Asistencia
 
 * La asistencia a clases es **voluntaria** y es responsabilidad de cada estudiante marcar en el sistema de ULagos.
 * No se harán adaptaciones a la asistencia al final del semestre.
