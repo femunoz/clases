@@ -18,7 +18,9 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 ### 2. Comunicación
 
 
-i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: Suite de Google y ULagos  Virtual..
+i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: 
+* Suite de Google y
+* ULagos  Virtual
 
 ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: 
   * GMail,
@@ -29,7 +31,7 @@ iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este mar
 
 iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? **Google Suite**.
 
-Fuente: [aquí](https://micro.blog/jeroensangers/12372424)
+Basado en [lineamientos Jeroen Sangers](https://micro.blog/jeroensangers/12372424)
 
 
 #### Estrategia de comunicación de cursos ULagos
