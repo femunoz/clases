@@ -18,16 +18,15 @@ En este repositorio se deja a disposición de las y los estudiantes lineamientos
 ### 2. Comunicación
 
 
-i) **Centraliza la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: 
-* Suite de Google y
+i) **Centralizar la comunicación.** En lugar del correo electrónico, usa una plataforma de colaboración: 
+* GCalendar (cada clase será un evento en el calendario. Se invitará a cada estudiante a los eventos repetitivos) y
 * ULagos  Virtual
 
 ii) **Comunicación asíncrona por defecto.** Así cada miembro del equipo puede adaptar su horario al máximo a sus circunstancias y preferencias: 
   * GMail,
-  * GCalendar (cada clase será un evento en el calendario. Se invitará a cada estudiante a los eventos repetitivos)
   * Quickmail.
 
-iii) **Sobre-comunica.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases o que su comienzo se pospone unos minutos, llegará una notificación de G. Calendar.
+iii) **Sobre-comunicar.** Aunque ya se haya comunicado que, por ejemplo, este martes no habrá clases o que su comienzo se pospone unos minutos, llegará una notificación de G. Calendar.
 
 iv) **Establece un plan de comunicación interna.** ¿Qué canales de comunicación tenéis disponibles y para qué usas cada canal? **Google Suite**.
 
@@ -36,9 +35,9 @@ Basado en [lineamientos Jeroen Sangers](https://micro.blog/jeroensangers/1237242
 
 #### 2.1 Estrategia de comunicación de cursos ULagos
 
-Para cada curso se utilizará la siguiente estrategia de comunicación, en orden de prioridad y son los **unicos medios de comunicación instititucionales oficiales**: 
+Para cada curso se utilizará la siguiente prioridad para comunicarnos y son los **unicos medios de comunicación instititucionales oficiales**: 
 
-1. GMail institucional: ...@alumnos.ulagos.cl y mi correo disponible en ULagos Virtual.
+1. GMail institucional: ...@alumnos.ulagos.cl y mi correo informado en clases.
 2. Plataforma [ULagos Virtual](https://www.ulagosvirtual.cl)
 3. Google Chat, disponible para [iOS](https://apps.apple.com/cl/app/google-chat/id1163852619), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=es_CL) y PC (web).
 
@@ -52,7 +51,7 @@ Los emails institucionales del cuerpo académico de las Ingenierías de ULagos s
 
 2. Es **importante** tener en consideración los tiempos de respuesta de correos, más detalles [aquí](https://felipe.micro.blog/emailulagos/).
 
-3. En caso de eventos **emergentes**, la comunicación se centraliza por GMail, Google Chat o G. Calendar.
+3. En caso de eventos **emergentes**, la comunicación se centraliza por Google Chat o Google Calendar.
 
 #### 2.2. Atención de estudiantes
 
